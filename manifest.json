@@ -1,0 +1,12 @@
+{
+  "name": "Colonialism: Grudges & Greed — الاستعمار أحقاد وأطماع",
+  "short_name": "الاستعمار",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book on colonialism",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#EFEBE9",
+  "theme_color": "#3E2723",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
